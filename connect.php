@@ -5,7 +5,7 @@ class Config
 		protected $host		= 'localhost';
 		protected $dbname 	= 'esb_test';
 		protected $user	 	= 'root';
-		protected $password	= 'flamingo';
+		protected $password	= '';
 
 		public function connectionKey()
 		{
